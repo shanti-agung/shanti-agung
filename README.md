@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shanti
+# Hi, I'm Shanti :wave: 👋
 
 <!--
 **shanti-agung/shanti-agung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a social scientist and data scientist passionate about using research and data science for social good. 
+I'm a social scientist and data scientist passionate about using research and data science for social good. When I was in academia, I worked using STATA and SPSS. I now primarily work in R and Python.
